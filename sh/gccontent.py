@@ -14,7 +14,7 @@ curSeq = StringIO()
 first = True
 
 while curLine != "":
-    print(curLine)
+    #print(curLine)
 
     if curLine[0] == ">":
 
